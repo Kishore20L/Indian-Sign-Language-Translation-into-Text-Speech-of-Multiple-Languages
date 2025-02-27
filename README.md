@@ -1,2 +1,5 @@
-# Indian-Sign-Lamguage-Translation-into-Text-Speech-of-Multiple-Languages
-Developed a real-time Indian Sign Language (ISL) translation system using OpenCV and Mediapipe, converting gestures into text and speech across multiple languages, including Telugu. Designed for accessibility and telemedicine, with future plans for multi-language support and live video call integration
+# sign-language-detector-python
+
+Sign language detector with Python, OpenCV and Mediapipe !
+
+[![Watch the video](https://img.youtube.com/vi/MJCSjXepaAM/0.jpg)](https://www.youtube.com/watch?v=MJCSjXepaAM)
